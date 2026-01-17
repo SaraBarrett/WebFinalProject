@@ -1,5 +1,5 @@
-.carroussel-img {
-  width: 300px;
-  height: auto;   /* mantém proporção */
-  object-fit: cover; /* opcional, para cortar e alinhar */
+.logo {
+    height: 60px;
+    width: 60px;
 }
+
