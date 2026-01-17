@@ -19,7 +19,7 @@
                             class="gallery-img" alt="View 2"></td>
                     <td><img src="{{ asset('images/professional-technologist-white-protective-uniform-controlling-industrial-process-production-plant.jpg') }}"
                             class="gallery-img" alt="View 3"></td>
-                    <td><img src="{{ asset('images/medium-shot-woman-working-beer-factory.jpg') }}" class="gallery-img"
+                    <td><img src="{{ asset('images/virolog-coducting-experiment.jpg') }}" class="gallery-img"
                             alt="View 3"></td>
                 </tr>
 
