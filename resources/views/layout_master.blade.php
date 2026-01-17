@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="{{route('client.home')}}">
-                <img src="{{ asset('images/identity/MedPharma_logo.png') }}" alt="MedPharma Logo"
+                <img src="{{ asset('images/identity/logo_only.png') }}" alt="MedPharma Logo"
                     class="d-inline-block logo">
                 MedPharma
             </a>
