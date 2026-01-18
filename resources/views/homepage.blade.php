@@ -13,7 +13,7 @@
 
             <div class="carousel-item">
                 <img class="d-block w-100"
-                    src="{{ asset('images/medium-shot-woman-working-beer-factory.jpg') }}"
+                    src="{{ asset('images/virolog-coducting-experiment.jpg') }}"
                     alt="Lab Equipment">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Lab Equipment</h5>
